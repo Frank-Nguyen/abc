@@ -163,5 +163,3 @@ function checkEmailExist($email,$conn){
         $_SESSION['error'][] = $msg;
     }
 }
-?>
-22222
